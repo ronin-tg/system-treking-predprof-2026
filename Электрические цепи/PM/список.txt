@@ -1,0 +1,4 @@
+ESP32-C3 SuperMini Ext
+модуль gy-87
+LP302030 3.7В 130 мАч
+tp4056  1A
